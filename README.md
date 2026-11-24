@@ -10,7 +10,7 @@
 <td width="50%" align="center" valign="top"><a href="https://github.com/android2linux/android2linux"><img src="./cards/building-android2linux.svg" alt="android2linux: Turn an Android phone into a Linux pocket computer you control." width="100%"></a></td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top"><img src="./cards/building-lightos.svg" alt="LightOS: A phone shell on postmarketOS, inspired by Windows Phone's Metro." width="100%"></td>
+<td width="50%" align="center" valign="top"><img src="./cards/building-lightos.svg" alt="LightOS: A phone OS you can customize end to end. Built on Chromium like ChromeOS, flexible, fast, and it runs on old phones." width="100%"></td>
 <td width="50%" align="center" valign="top"><img src="./cards/building-light-code.svg" alt="Light Code: An agent orchestrator for the terminal: a lead agent, subagents in sandboxes, every edit in view." width="100%"></td>
 </tr>
 </table>
