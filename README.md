@@ -28,10 +28,6 @@
 </tr>
 </table>
 
-<img src="./cards/activity.svg" alt="Contributions in the last 30 days" width="100%">
-
-<img src="./cards/scan.svg" alt="A year of contributions" width="100%">
-
 <div align="center">
 <a href="https://alantriesagain.com">alantriesagain.com</a> · <a href="https://x.com/alantriesagain">x.com/alantriesagain</a> · <a href="https://threads.com/@alantriesagain">threads.com/@alantriesagain</a>
 </div>
